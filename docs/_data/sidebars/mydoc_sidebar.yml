@@ -11,6 +11,7 @@ entries:
     folderitems:
 
     - title: Computer Vision
+      url: /mydoc_computer_vision_overview.html
       output: web
 
       subfolders:

@@ -4,7 +4,7 @@ tagName: tracking
 search: exclude
 permalink: papers_multi_object_tracking.html
 sidebar: mydoc_sidebar
-folder: tags
+folder: papers
 ---
 {% include taglogic.html %}
 
