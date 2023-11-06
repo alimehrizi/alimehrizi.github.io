@@ -1,8 +1,8 @@
 ---
-title: "News"
-tagName: news
+title: "Multi Object Tracking"
+tagName: tracking
 search: exclude
-permalink: tag_news.html
+permalink: papers_multi_object_tracking.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
